@@ -3,20 +3,12 @@ Generate Handwriting using RNN
 
 Samples
 --------
-"A project by Sam Greydanus"
-![Sample output 1](static/author.png?raw=true)
+"turn down the Foot-Griffiths resolution"
+![Sample output 1](static/style_0.png?raw=true)
 "You know nothing Jon Snow" (print)
 ![Sample output 2](static/jon_print.png?raw=true)
 "You know nothing Jon Snow" (cursive)
 ![Sample output 3](static/jon_cursive.png?raw=true)
-
-"lowering the bias"
-![Sample output 4](static/bias-1.png?raw=true)
-"makes the writing messier"
-![Sample output 5](static/bias-0.75.png?raw=true)
-"but more random"
-![Sample output 6](static/bias-0.5.png?raw=true)
-
 
 About
 --------
